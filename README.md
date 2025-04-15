@@ -10,11 +10,5 @@ Welcome to my **Developer Portfolio**! This website showcases my featured projec
 - 💻 Fully responsive design
 - 🌙 Dark mode toggle (optional)
 
-## 🛠 Tech Stack
 
-- **Frontend:** React, CSS Modules, HTML5
-- **Assets:** Custom images, icons (Font Awesome / Bootstrap Icons)
-- **Hosting:** (Add Netlify/Vercel/GitHub Pages/etc. if used)
-
-## 📁 Project Structure
 
