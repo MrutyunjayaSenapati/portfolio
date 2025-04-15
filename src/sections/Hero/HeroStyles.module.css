@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+}
+
+.themeToggle {
+  align-self: flex-end;
+  margin-bottom: 1rem;
+}
+
+.colorMode {
+  width: 30px;
+  cursor: pointer;
+}
+
+.info h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.info h2 {
+  font-size: 1.5rem;
+  /* color: var(--accent-color); */
+  margin-bottom: 1rem;
+}
+
+.info span a {
+  margin: 0 10px;
+}
+
+.description {
+  margin: 1rem 0;
+  max-width: 600px;
+}
+
+button.hover {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  background-color: var(--accent-color);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button.hover:hover {
+  background-color: var(--accent-color-dark);
+}
